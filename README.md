@@ -66,19 +66,18 @@ Each challenge required translating business questions into efficient SQL logic,
 ---
 
 
-## 📜 Certificate  
+##  Certificate  
 The certificate of completion from **Ivy Professional School** is included in this repository.
 
 ---
 
-## ⚠️ Disclaimer  
+## Disclaimer  
 - This project is created for **learning and portfolio purposes**  
 - Data used is **synthetic and non-confidential**  
 
 ---
 
-## 👨‍💻 Author  
+##  Author  
 **Saptarshi Bandyopadhyay**  
-📍 Kolkata, India  
 🔗 GitHub: https://github.com/Saptarshi-ux  
 🔗 LinkedIn: https://linkedin.com/in/saptarshi-sb1729  
