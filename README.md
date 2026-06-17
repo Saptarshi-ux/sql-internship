@@ -1,4 +1,4 @@
-# SQL Challenge Based Internship – Business Analytics Case Studies  
+# Business Analytics Case Studies - SQL Internship
 
 ![SQL](https://img.shields.io/badge/SQL-Structured%20Query%20Language-blue)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-orange?logo=mysql&logoColor=white)
