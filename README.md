@@ -78,11 +78,13 @@ The certificate of completion from **Ivy Professional School** is included in th
 
 ## Disclaimer  
 - This project is created for **learning and portfolio purposes**  
-- Data used is **synthetic and non-confidential**  
+- Data used is **synthetic and non-confidential**
+- Don't copy this whole work without the author's permission
 
 ---
 
 ##  Author  
 **Saptarshi Bandyopadhyay**  
 🔗 GitHub: https://github.com/Saptarshi-ux  
-🔗 LinkedIn: https://linkedin.com/in/saptarshi-sb1729  
+🔗 LinkedIn: https://linkedin.com/in/saptarshi-sb1729
+
